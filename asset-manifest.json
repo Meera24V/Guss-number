@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Guss-number/static/css/main.409d789e.css",
+    "main.js": "/Guss-number/static/js/main.7a0c54f4.js",
+    "static/js/453.49a8f503.chunk.js": "/Guss-number/static/js/453.49a8f503.chunk.js",
+    "index.html": "/Guss-number/index.html",
+    "main.409d789e.css.map": "/Guss-number/static/css/main.409d789e.css.map",
+    "main.7a0c54f4.js.map": "/Guss-number/static/js/main.7a0c54f4.js.map",
+    "453.49a8f503.chunk.js.map": "/Guss-number/static/js/453.49a8f503.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.409d789e.css",
+    "static/js/main.7a0c54f4.js"
+  ]
+}
