@@ -3,3 +3,67 @@
   background-color: yellow;
   
 }
+.color{
+    
+  height: 100%;
+  width: 100%;
+  background-color:gray;
+  position:fixed;
+
+}
+
+.font{
+  label{
+      color: greenyellow;
+      font-size: 20px;
+      font-weight: 600;/*to make text bold*/
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      margin-left: 70px;
+  }
+}
+
+.container{
+    padding: 15px;/*it use to increase the space of the box*/
+    border: 2px solid cyan;
+    border-radius: 16px; /*it is use to make the box curve*/
+    width: 500px;
+    margin-left:35%;
+    display:flex;/*it use to display content inside the box*/
+    flex-direction: column;/*it use to display content from left*/
+    position: relative;
+    top: 190px;
+    input{
+      padding: 5px;
+      border-radius: 5px;
+      border: 2px solid gold;
+      position: relative;
+      top:10px;/*to move downward*/
+    }
+    input:hover{
+      background-color:rgb(109, 169, 199);/*when we moveover on the input box it display the color*/
+    }
+    input:focus{
+      background-color:plum;/*when we click on input box it will show this color*/
+    }
+
+}
+
+.file{
+  font-size: 20px;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.align1{
+margin-top:480px;
+color: white;
+text-align: center;
+font-size: 20px;
+
+}
+
+.color1{
+color: white;
+font-size: 20px;
+}
+

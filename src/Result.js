@@ -25,8 +25,9 @@ function Result({number,term})
     }
    return(
     <div className={style.file}>
-         <p>You Gussed:{Result}</p>
+         <p className='mt-4 lead'>You Gussed:{Result}</p>
     </div>
+   
    )
 }
 
